@@ -1,4 +1,4 @@
-# aahps - ANALYSIS OF ALGORITHMS AND HEURISTIC PROBLEM SOLVING
+# ANALYSIS OF ALGORITHMS AND HEURISTIC PROBLEM SOLVING
 
 Programming assignments for FRI course AAHPS in 2023 
 The most interesting report is the **final one**, which contains a detailed analysis of complex algorithms for multiple functions.
